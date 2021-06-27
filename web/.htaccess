@@ -1,0 +1,13 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} DoCoMo
+RewriteRule ^$ /m/ [R]
+RewriteCond %{HTTP_USER_AGENT} J-PHONE
+RewriteRule ^$ /m/ [R]
+RewriteCond %{HTTP_USER_AGENT} Vodafone
+RewriteRule ^$ /m/ [R]
+RewriteCond %{HTTP_USER_AGENT} SoftBank
+RewriteRule ^$ /m/ [R]
+RewriteCond %{HTTP_USER_AGENT} KDDI
+RewriteRule ^$ /m/ [R]
+RewriteCond %{HTTP_USER_AGENT} UP.Browser
+RewriteRule ^$ /m/ [R]

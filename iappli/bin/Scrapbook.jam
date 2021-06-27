@@ -1,0 +1,11 @@
+PackageURL = http://memo.monysong.com/Scrapbook.jar
+AppSize = 16075
+AppName = Scrapbook
+AppParam = shuichi.takaya.mobile.phone@docomo.ne.jp
+AppClass = Scrapbook
+SPsize = 204800
+UseNetwork = http
+AccessUserInfo = yes
+LastModified = Tue, 21 Jul 2009 16:55:06
+GetUtn = terminalid,userid
+AppIcon = icon.gif

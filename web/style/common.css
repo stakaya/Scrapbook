@@ -1,0 +1,21 @@
+    body {background-color:#33FF66;}
+    p    {padding:0px 40px; }
+    h2 {width:770px;text-align:center; font-size:33px; color:#B4F0A8;
+    letter-spacing:0.05em; border-bottom: 1px solid #AFEECC;}
+    h3 {clear:both; width:150px; margin:20px 10px 3px 10px; padding:3px 4px;
+    font-size:16px; color:#B4F0A8; letter-spacing:0.05em; border-bottom:#AFEECC dotted 2px;}
+    #territory {text-align:left; width:800px; margin:0 auto; padding:0; background:url(../image/middle.gif) repeat-y;}
+    #header {width:800px; height:10px; margin:0; padding:0; background:url(../image/header.gif) no-repeat;}
+    #footer {width:800px; height:10px; margin:0; padding:0;}
+    #main   {width:800px; margin:0; padding-left: 20px;}
+    #copyright {clear:both; width:770px; margin:20px 10px 3px 10px; padding:3px 4px; font-size:10px; text-align:right; color:#B4F0A8; letter-spacing:0.05em; border-top:#B4F0A8 dotted 1px;}
+
+    #mail{width:150px;vertical-align:middle;
+      padding:3px 0 2px 3px; border:1px solid #B4F0A8;
+      background:#fff no-repeat 3px 50%; font-size:100%;
+    }
+
+    .button{vertical-align:middle; color: #fff; -moz-border-radius:5px;
+    border-top:1px double #9cf; border-left:1px double #9cf;border-right:2px double #4080BF;
+    border-bottom:2px double #4080BF; background: #B4F0A8 left bottom repeat-x; text-align: center; }
+
